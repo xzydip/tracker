@@ -46,7 +46,7 @@ apt-get -y install php unzip git wget
 
 ```
 git clone https://github.com/techchipnet/hound
-cd hound
+cd tracker
 bash hound.sh
 ```
 ## Change log:
